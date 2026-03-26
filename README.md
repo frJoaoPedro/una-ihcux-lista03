@@ -18,6 +18,8 @@ Copie o código para o seu VS Code.
 
 No terminal, digite dotnet run.
 
+<img width="1455" height="717" alt="Screenshot 2026-03-26 200708" src="https://github.com/user-attachments/assets/e1fd41b6-bcfe-4a54-838f-82bae868cec2" />
+
 Observe como as mensagens mudam na mesma linha, mantendo você informado sobre o progresso do "Deep Scan".
 ---
 💻 Tecnologias
